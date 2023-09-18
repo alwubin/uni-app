@@ -1,5 +1,5 @@
 # uni-app
-`uni-app`은 통합된 프론트엔드 프레임워크로, `Vue.js`를 사용해 applet, H5, 그리고 App을 개발합니다. 공식적인 웹사이트 주소: https://uniapp.dcloud.io
+`uni-app`은 크로스 플랫폼 어플리케이션을 개발하기 위한 프론트엔드 프레임워크로, `Vue.js`를 사용해 applet, H5, 그리고 App을 개발합니다. 개발자는 Vue.js 코드를 작성하고 uni-app는이 코드를 App, H5 및 다양한 애플릿으로 컴파일하여 올바르게 실행되도록합니다. 공식적인 웹사이트 주소: https://uniapp.dcloud.io
 
 개발자들은 `Vue`의 문법을 사용하여 코드 작성을 할 수 있습니다. uni-app 프레임워크는 소규모 프로그램((WeChat/Alipay/Baidu/ByteDance/QQ/Kuishou/Dingding/Xiaohongshu), App (iOS/Android))과, H5 및 다른 플랫폼에 컴파일하여 프로그램의 올바른 작동과 엄청난 성과를 얻는것을 보장합니다. 
 
